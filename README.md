@@ -2,4 +2,5 @@
 
 
 Карта для прохождения с модом portal
-~STAFF_STUDIO~
+
+-STAFF_STUDIO- 
